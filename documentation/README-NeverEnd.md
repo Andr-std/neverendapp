@@ -1,0 +1,2 @@
+# Neverending Stories
+A reimagining of [Medium](https://medium.com/) that has been done in the group project. Thinking further, this project would give the opportunity to users to add to each others' stories, so all stories would be a result of common efforts. Technically the stories are built from storyparts (every time a story is rendered) that users added to the story. A storypart can be modified or deleted by the author (user) as long as no other user added a new storypart to the story.
